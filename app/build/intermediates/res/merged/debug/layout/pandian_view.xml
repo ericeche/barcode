@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/read_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pandian_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/pandian_panel_bg"
+        android:padding="10dp" >
+
+        <RelativeLayout
+            android:id="@+id/layout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" >
+
+            <TextView
+                android:id="@+id/pandian_panel_renyuan1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="巡视人员："
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/pandian_panel_renyuan2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/pandian_panel_renyuan1"
+                android:layout_centerHorizontal="true"
+                android:layout_toRightOf="@+id/pandian_panel_renyuan1"
+                android:text="李越"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout1"
+            android:layout_centerHorizontal="true" >
+
+            <TextView
+                android:id="@+id/pandian_panel_zhengchang1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/pandian_panel_renyuan1"
+                android:layout_below="@+id/pandian_panel_renyuan1"
+                android:paddingTop="10dp"
+                android:text="正常："
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/pandian_panel_zhengchang2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/pandian_panel_zhengchang1"
+                android:layout_alignBottom="@+id/pandian_panel_zhengchang1"
+                android:layout_toRightOf="@+id/pandian_panel_zhengchang1"
+                android:text="56"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/pandian_panel_zhengchang3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/pandian_panel_zhengchang2"
+                android:layout_toRightOf="@+id/pandian_panel_zhengchang2"
+                android:text="条"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/layout2"
+            android:layout_below="@+id/layout2" >
+
+            <TextView
+                android:id="@+id/pandian_panel_quexian1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:text="缺陷："
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/pandian_panel_quexian2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/pandian_panel_quexian1"
+                android:layout_toRightOf="@+id/pandian_panel_quexian1"
+                android:text="2"
+                android:textColor="@color/text_red" />
+
+            <TextView
+                android:id="@+id/pandian_panel_quexian3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/pandian_panel_quexian1"
+                android:layout_toRightOf="@+id/pandian_panel_quexian2"
+                android:text="条"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout3"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:id="@+id/pandian_panel_riqi1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="日期："
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/pandian_panel_riqi2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/pandian_panel_riqi1"
+                android:layout_toRightOf="@+id/pandian_panel_riqi1"
+                android:text="2015-03-16 15时33分23秒"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:padding="10dp" >
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="10dp"
+            android:listSelector="@android:color/transparent" >
+        </ListView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:id="@+id/scan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/scan_start" />
+        
+        <ImageView
+            android:id="@+id/complateBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/pandian_comp" />
+        
+    </RelativeLayout>
+
+</LinearLayout>

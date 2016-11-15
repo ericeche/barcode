@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "/Users/ericecheverri/EquipmentMnanager1/app/src/main/jni/Application.mk",
+    "/Users/ericecheverri/EquipmentMnanager1/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

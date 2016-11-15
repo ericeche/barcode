@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/read_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/pandian_panel_bg"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/pandian_panel_riqi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="日期："
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_riqi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/pandian_panel_riqi1"
+            android:text="2015-03-16"
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_renyuan1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pandian_panel_riqi2"
+            android:layout_alignBottom="@+id/pandian_panel_riqi2"
+            android:layout_marginLeft="35dp"
+            android:layout_toRightOf="@+id/pandian_panel_riqi2"
+            android:text="巡视人员："
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_renyuan2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pandian_panel_renyuan1"
+            android:layout_alignBottom="@+id/pandian_panel_renyuan1"
+            android:layout_toRightOf="@+id/pandian_panel_renyuan1"
+            android:text="李越"
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_zhengchang1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/pandian_panel_riqi1"
+            android:layout_below="@id/pandian_panel_riqi1"
+            android:paddingTop="10dp"
+            android:text="正常："
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_zhengchang2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pandian_panel_zhengchang1"
+            android:layout_alignBottom="@+id/pandian_panel_zhengchang1"
+            android:layout_toRightOf="@+id/pandian_panel_zhengchang1"
+            android:text="56"
+            android:textColor="@color/text_green"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/pandian_panel_zhengchang3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/pandian_panel_zhengchang2"
+            android:layout_toRightOf="@+id/pandian_panel_zhengchang2"
+            android:text="条"
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_quexian1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/pandian_panel_zhengchang1"
+            android:layout_below="@id/pandian_panel_zhengchang1"
+            android:paddingTop="10dp"
+            android:text="缺陷："
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/pandian_panel_quexian2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pandian_panel_quexian1"
+            android:layout_alignBottom="@+id/pandian_panel_quexian1"
+            android:layout_alignLeft="@+id/pandian_panel_zhengchang2"
+            android:text="2"
+            android:textColor="@color/text_red"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/pandian_panel_quexian3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pandian_panel_quexian2"
+            android:layout_alignBottom="@+id/pandian_panel_quexian2"
+            android:layout_toRightOf="@+id/pandian_panel_quexian2"
+            android:text="条"
+            android:textColor="@color/text_blue" />
+
+        <TextView
+            android:id="@+id/scan"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_alignBottom="@+id/pandian_panel_quexian3"
+            android:layout_alignLeft="@+id/pandian_panel_renyuan1"
+            android:background="@drawable/scan_btn_bg"
+            android:gravity="center"
+            android:text="开始扫描"
+            android:textColor="@color/text_blue"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/complateBtn"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/complate_btn_bg"
+            android:gravity="center"
+            android:text="完成盘点"
+            android:textColor="@color/text_green"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/pandian_panel_bg"
+        android:padding="10dp" >
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

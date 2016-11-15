@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/guava-15.0_767152f4e662cd9d4453c404a57e40b7c737a589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/jxl_23f9a7ab7a140054fe983d7a629939ad12f539b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/jxl_23f9a7ab7a140054fe983d7a629939ad12f539b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0ba22066b84e1415d740965b2e015982c59e75c">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/Sunflower_b040ee21053de7b9ae3803d0369b170fd755efb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0ba22066b84e1415d740965b2e015982c59e75c">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/Sunflower_b040ee21053de7b9ae3803d0369b170fd755efb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cd400a3ba3e7438e3026edb4f231387d23297f3">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/Msc_dedc076250b7ed30769e3f5050ce9dee8bcad570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/eventbus-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24204c5f5ff4a506028488919eab9f75f43aa4d5">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/eventbus-2.0.2_b4c16110512fd4f67c17f3c4f04166070140f592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cd400a3ba3e7438e3026edb4f231387d23297f3">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/Msc_dedc076250b7ed30769e3f5050ce9dee8bcad570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/eventbus-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24204c5f5ff4a506028488919eab9f75f43aa4d5">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/eventbus-2.0.2_b4c16110512fd4f67c17f3c4f04166070140f592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/universal-image-loader-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.0_005050e691428178e0333f39d1eaa50b8f4ee899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.0_005050e691428178e0333f39d1eaa50b8f4ee899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/jdom.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/jdom_8963674c2f9fd6d2f53f2bd8ecb4297f1ad4c5e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/jdom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/jdom_8963674c2f9fd6d2f53f2bd8ecb4297f1ad4c5e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_d6bfb0aa4c12d9589911d577cd55b12845f77aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/guava-15.0_767152f4e662cd9d4453c404a57e40b7c737a589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_d6bfb0aa4c12d9589911d577cd55b12845f77aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/zxing_ee52d179f6636c78c7ececd31cdfef1c1a0096ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/SenterOpenApi_1.1.2.26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1aeabd74e6eecbf20bc7120d5a5df0aaa8f921f3">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/SenterOpenApi_1.1.2.26_c6837e54c46dfad22f26e40daea54ee08ebcbf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/zxing_ee52d179f6636c78c7ececd31cdfef1c1a0096ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericecheverri/EquipmentMnanager1/app/libs/SenterOpenApi_1.1.2.26.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1aeabd74e6eecbf20bc7120d5a5df0aaa8f921f3">
+        <dex dex="/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/pre-dexed/debug/SenterOpenApi_1.1.2.26_c6837e54c46dfad22f26e40daea54ee08ebcbf55.jar" />
+    </item>
+
+</items>

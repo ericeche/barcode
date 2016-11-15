@@ -1,0 +1,3313 @@
+[
+    {
+        "outputFile": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endLine": 77,
+                        "endColumn": 19,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endLine": 82,
+                        "endColumn": 19,
+                        "endOffset": 2306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 2311,
+                        "endLine": 100,
+                        "endColumn": 19,
+                        "endOffset": 2741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endLine": 46,
+                    "endColumn": 19,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endLine": 64,
+                        "endColumn": 19,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endLine": 44,
+                        "endColumn": 19,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endLine": 73,
+                    "endColumn": 19,
+                    "endOffset": 1897
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endLine": 54,
+                        "endColumn": 19,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 1902,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 9909,
+                        "endLine": 274,
+                        "endColumn": 19,
+                        "endOffset": 10064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endLine": 85,
+                    "endColumn": 19,
+                    "endOffset": 2222
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2227,
+                    "endLine": 95,
+                    "endColumn": 19,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 8543,
+                        "endLine": 227,
+                        "endColumn": 19,
+                        "endOffset": 8780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endLine": 102,
+                    "endColumn": 19,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 11592,
+                        "endLine": 308,
+                        "endColumn": 19,
+                        "endOffset": 11801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endLine": 106,
+                    "endColumn": 19,
+                    "endOffset": 2788
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 2793,
+                    "endLine": 117,
+                    "endColumn": 19,
+                    "endOffset": 3074
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3079,
+                    "endLine": 122,
+                    "endColumn": 19,
+                    "endOffset": 3220
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 2746,
+                        "endLine": 105,
+                        "endColumn": 19,
+                        "endOffset": 2887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3225,
+                    "endLine": 126,
+                    "endColumn": 19,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 8940,
+                        "endLine": 237,
+                        "endColumn": 19,
+                        "endOffset": 9060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endLine": 130,
+                    "endColumn": 19,
+                    "endOffset": 3462
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 9170,
+                        "endLine": 244,
+                        "endColumn": 19,
+                        "endOffset": 9282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 3467,
+                    "endLine": 148,
+                    "endColumn": 19,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 9401,
+                        "endLine": 266,
+                        "endColumn": 19,
+                        "endOffset": 9827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endLine": 154,
+                    "endColumn": 19,
+                    "endOffset": 4048
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 8785,
+                        "endLine": 233,
+                        "endColumn": 19,
+                        "endOffset": 8935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 4053,
+                    "endLine": 158,
+                    "endColumn": 19,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 9287,
+                        "endLine": 248,
+                        "endColumn": 19,
+                        "endOffset": 9396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 42,
+                    "endOffset": 4205
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 7504,
+                        "endColumn": 42,
+                        "endOffset": 7542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 4210,
+                    "endColumn": 41,
+                    "endOffset": 4247
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 2938,
+                        "endColumn": 41,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 4252,
+                    "endColumn": 41,
+                    "endOffset": 4289
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 2980,
+                        "endColumn": 41,
+                        "endOffset": 3017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 4294,
+                    "endColumn": 50,
+                    "endOffset": 4340
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 50,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 4345,
+                    "endColumn": 73,
+                    "endOffset": 4414
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4123,
+                        "endColumn": 73,
+                        "endOffset": 4192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 4419,
+                    "endColumn": 53,
+                    "endOffset": 4468
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 7181,
+                        "endColumn": 53,
+                        "endOffset": 7230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 4473,
+                    "endColumn": 35,
+                    "endOffset": 4504
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 6492,
+                        "endColumn": 35,
+                        "endOffset": 6523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 4509,
+                    "endColumn": 37,
+                    "endOffset": 4542
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 8219,
+                        "endColumn": 37,
+                        "endOffset": 8252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 4547,
+                    "endColumn": 50,
+                    "endOffset": 4593
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 7863,
+                        "endColumn": 50,
+                        "endOffset": 7909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 4598,
+                    "endColumn": 81,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 5814,
+                        "endColumn": 81,
+                        "endOffset": 5891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 46,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 7816,
+                        "endColumn": 46,
+                        "endOffset": 7858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 59,
+                    "endOffset": 4782
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 5622,
+                        "endColumn": 59,
+                        "endOffset": 5677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 4787,
+                    "endColumn": 63,
+                    "endOffset": 4846
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 5750,
+                        "endColumn": 63,
+                        "endOffset": 5809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 4851,
+                    "endColumn": 67,
+                    "endOffset": 4914
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 5682,
+                        "endColumn": 67,
+                        "endOffset": 5745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 4919,
+                    "endColumn": 44,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 3611,
+                        "endColumn": 44,
+                        "endOffset": 3651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 67,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 5328,
+                        "endColumn": 67,
+                        "endOffset": 5391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 81,
+                    "endOffset": 5109
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 5027,
+                        "endColumn": 81,
+                        "endOffset": 5104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 5114,
+                    "endColumn": 91,
+                    "endOffset": 5201
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 4851,
+                        "endColumn": 91,
+                        "endOffset": 4938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 5206,
+                    "endColumn": 83,
+                    "endOffset": 5285
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 4943,
+                        "endColumn": 83,
+                        "endOffset": 5022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 5290,
+                    "endColumn": 68,
+                    "endOffset": 5354
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 5553,
+                        "endColumn": 68,
+                        "endOffset": 5617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 5359,
+                    "endColumn": 38,
+                    "endOffset": 5393
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 4387,
+                        "endColumn": 38,
+                        "endOffset": 4421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 5398,
+                    "endColumn": 39,
+                    "endOffset": 5433
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 4601,
+                        "endColumn": 39,
+                        "endOffset": 4636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 5438,
+                    "endColumn": 48,
+                    "endOffset": 5482
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 4552,
+                        "endColumn": 48,
+                        "endOffset": 4596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 5487,
+                    "endColumn": 46,
+                    "endOffset": 5529
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 4505,
+                        "endColumn": 46,
+                        "endOffset": 4547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5534,
+                    "endColumn": 45,
+                    "endOffset": 5575
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 7413,
+                        "endColumn": 45,
+                        "endOffset": 7454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 5580,
+                    "endColumn": 42,
+                    "endOffset": 5618
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 3524,
+                        "endColumn": 42,
+                        "endOffset": 3562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 5623,
+                    "endColumn": 49,
+                    "endOffset": 5668
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 5171,
+                        "endColumn": 49,
+                        "endOffset": 5216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 5673,
+                    "endColumn": 51,
+                    "endOffset": 5720
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 5221,
+                        "endColumn": 51,
+                        "endOffset": 5268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 5725,
+                    "endColumn": 36,
+                    "endOffset": 5757
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 6455,
+                        "endColumn": 36,
+                        "endOffset": 6487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 5762,
+                    "endColumn": 42,
+                    "endOffset": 5800
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 6625,
+                        "endColumn": 42,
+                        "endOffset": 6663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5805,
+                    "endColumn": 44,
+                    "endOffset": 5845
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 7459,
+                        "endColumn": 44,
+                        "endOffset": 7499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 5850,
+                    "endColumn": 63,
+                    "endOffset": 5909
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 6101,
+                        "endColumn": 63,
+                        "endOffset": 6160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 5914,
+                    "endColumn": 40,
+                    "endOffset": 5950
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 8257,
+                        "endColumn": 40,
+                        "endOffset": 8293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 5955,
+                    "endColumn": 35,
+                    "endOffset": 5986
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 8052,
+                        "endColumn": 35,
+                        "endOffset": 8083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 5991,
+                    "endColumn": 41,
+                    "endOffset": 6028
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 7547,
+                        "endColumn": 41,
+                        "endOffset": 7584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 6033,
+                    "endColumn": 47,
+                    "endOffset": 6076
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 7719,
+                        "endColumn": 47,
+                        "endOffset": 7762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 6081,
+                    "endColumn": 60,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 6165,
+                        "endColumn": 60,
+                        "endOffset": 6221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endColumn": 48,
+                    "endOffset": 6186
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 7670,
+                        "endColumn": 48,
+                        "endOffset": 7714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 6191,
+                    "endColumn": 54,
+                    "endOffset": 6241
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 6284,
+                        "endColumn": 54,
+                        "endOffset": 6334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 6246,
+                    "endColumn": 57,
+                    "endOffset": 6299
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 6226,
+                        "endColumn": 57,
+                        "endOffset": 6279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 6304,
+                    "endColumn": 34,
+                    "endOffset": 6334
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 9065,
+                        "endColumn": 34,
+                        "endOffset": 9095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 6339,
+                    "endColumn": 56,
+                    "endOffset": 6391
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 6976,
+                        "endColumn": 56,
+                        "endOffset": 7028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 6396,
+                    "endColumn": 50,
+                    "endOffset": 6442
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 6925,
+                        "endColumn": 50,
+                        "endOffset": 6971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6447,
+                    "endColumn": 47,
+                    "endOffset": 6490
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 7033,
+                        "endColumn": 47,
+                        "endOffset": 7076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6495,
+                    "endColumn": 40,
+                    "endOffset": 6531
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 6060,
+                        "endColumn": 40,
+                        "endOffset": 6096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6536,
+                    "endColumn": 61,
+                    "endOffset": 6593
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 5109,
+                        "endColumn": 61,
+                        "endOffset": 5166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6598,
+                    "endColumn": 66,
+                    "endOffset": 6660
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 3996,
+                        "endColumn": 66,
+                        "endOffset": 4058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6665,
+                    "endColumn": 59,
+                    "endOffset": 6720
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 4063,
+                        "endColumn": 59,
+                        "endOffset": 4118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 6725,
+                    "endColumn": 61,
+                    "endOffset": 6782
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 4197,
+                        "endColumn": 61,
+                        "endOffset": 4254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 6787,
+                    "endColumn": 54,
+                    "endOffset": 6837
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 5273,
+                        "endColumn": 54,
+                        "endOffset": 5323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 6842,
+                    "endColumn": 51,
+                    "endOffset": 6889
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 3057,
+                        "endColumn": 51,
+                        "endOffset": 3104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 6894,
+                    "endColumn": 58,
+                    "endOffset": 6948
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 5494,
+                        "endColumn": 58,
+                        "endOffset": 5548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 6953,
+                    "endColumn": 40,
+                    "endOffset": 6989
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 3447,
+                        "endColumn": 40,
+                        "endOffset": 3483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 6994,
+                    "endColumn": 39,
+                    "endOffset": 7029
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 8298,
+                        "endColumn": 39,
+                        "endOffset": 8333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 7034,
+                    "endColumn": 47,
+                    "endOffset": 7077
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 7365,
+                        "endColumn": 47,
+                        "endOffset": 7408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 7082,
+                    "endColumn": 44,
+                    "endOffset": 7122
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 7914,
+                        "endColumn": 44,
+                        "endOffset": 7954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 7127,
+                    "endColumn": 37,
+                    "endOffset": 7160
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 4310,
+                        "endColumn": 37,
+                        "endOffset": 4343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 7165,
+                    "endColumn": 38,
+                    "endOffset": 7199
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 4348,
+                        "endColumn": 38,
+                        "endOffset": 4382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 7204,
+                    "endColumn": 44,
+                    "endOffset": 7244
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 4759,
+                        "endColumn": 44,
+                        "endOffset": 4799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 7249,
+                    "endColumn": 37,
+                    "endOffset": 7282
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 4683,
+                        "endColumn": 37,
+                        "endOffset": 4716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 7287,
+                    "endColumn": 78,
+                    "endOffset": 7361
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 4426,
+                        "endColumn": 78,
+                        "endOffset": 4500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 7366,
+                    "endColumn": 59,
+                    "endOffset": 7421
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 3109,
+                        "endColumn": 59,
+                        "endOffset": 3164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 7426,
+                    "endColumn": 61,
+                    "endOffset": 7483
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 3169,
+                        "endColumn": 61,
+                        "endOffset": 3226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 7488,
+                    "endColumn": 32,
+                    "endOffset": 7516
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 3963,
+                        "endColumn": 32,
+                        "endOffset": 3991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 7521,
+                    "endColumn": 33,
+                    "endOffset": 7550
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 3363,
+                        "endColumn": 33,
+                        "endOffset": 3392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 7555,
+                    "endColumn": 37,
+                    "endOffset": 7588
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 7589,
+                        "endColumn": 37,
+                        "endOffset": 7622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 7593,
+                    "endColumn": 67,
+                    "endOffset": 7656
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 3798,
+                        "endColumn": 67,
+                        "endOffset": 3861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 7661,
+                    "endColumn": 35,
+                    "endOffset": 7692
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 6382,
+                        "endColumn": 35,
+                        "endOffset": 6413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 7697,
+                    "endColumn": 50,
+                    "endOffset": 7743
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4259,
+                        "endColumn": 50,
+                        "endOffset": 4305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 7748,
+                    "endColumn": 46,
+                    "endOffset": 7790
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 8005,
+                        "endColumn": 46,
+                        "endOffset": 8047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 7795,
+                    "endColumn": 43,
+                    "endOffset": 7834
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 7235,
+                        "endColumn": 43,
+                        "endOffset": 7274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 7839,
+                    "endColumn": 42,
+                    "endOffset": 7877
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 6339,
+                        "endColumn": 42,
+                        "endOffset": 6377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 7882,
+                    "endColumn": 44,
+                    "endOffset": 7922
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 6880,
+                        "endColumn": 44,
+                        "endOffset": 6920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 7927,
+                    "endColumn": 43,
+                    "endOffset": 7966
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 6836,
+                        "endColumn": 43,
+                        "endOffset": 6875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 7971,
+                    "endColumn": 46,
+                    "endOffset": 8013
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 3916,
+                        "endColumn": 46,
+                        "endOffset": 3958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 8018,
+                    "endColumn": 43,
+                    "endOffset": 8057
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 3567,
+                        "endColumn": 43,
+                        "endOffset": 3606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 8062,
+                    "endColumn": 49,
+                    "endOffset": 8107
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 3866,
+                        "endColumn": 49,
+                        "endOffset": 3911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 8112,
+                    "endColumn": 48,
+                    "endOffset": 8156
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 3314,
+                        "endColumn": 48,
+                        "endOffset": 3358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 8161,
+                    "endColumn": 49,
+                    "endOffset": 8206
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3397,
+                        "endColumn": 49,
+                        "endOffset": 3442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 8211,
+                    "endColumn": 38,
+                    "endOffset": 8245
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 9870,
+                        "endColumn": 38,
+                        "endOffset": 9904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 8250,
+                    "endColumn": 34,
+                    "endOffset": 8280
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 3022,
+                        "endColumn": 34,
+                        "endOffset": 3052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 8285,
+                    "endColumn": 43,
+                    "endOffset": 8324
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endColumn": 43,
+                        "endOffset": 3309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 8329,
+                    "endColumn": 45,
+                    "endOffset": 8370
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 7959,
+                        "endColumn": 45,
+                        "endOffset": 8000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 8375,
+                    "endColumn": 41,
+                    "endOffset": 8412
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 8088,
+                        "endColumn": 41,
+                        "endOffset": 8125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 8417,
+                    "endColumn": 38,
+                    "endOffset": 8451
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 3231,
+                        "endColumn": 38,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 8456,
+                    "endColumn": 37,
+                    "endOffset": 8489
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 9832,
+                        "endColumn": 37,
+                        "endOffset": 9865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 8494,
+                    "endColumn": 50,
+                    "endOffset": 8540
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 7130,
+                        "endColumn": 50,
+                        "endOffset": 7176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 8545,
+                    "endColumn": 48,
+                    "endOffset": 8589
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 7081,
+                        "endColumn": 48,
+                        "endOffset": 7125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 8594,
+                    "endColumn": 45,
+                    "endOffset": 8635
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 2892,
+                        "endColumn": 45,
+                        "endOffset": 2933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 8640,
+                    "endColumn": 48,
+                    "endOffset": 8684
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 7767,
+                        "endColumn": 48,
+                        "endOffset": 7811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 8689,
+                    "endColumn": 35,
+                    "endOffset": 8720
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 3488,
+                        "endColumn": 35,
+                        "endOffset": 3519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 8725,
+                    "endColumn": 47,
+                    "endOffset": 8768
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 11806,
+                        "endColumn": 47,
+                        "endOffset": 11849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 8773,
+                    "endColumn": 37,
+                    "endOffset": 8806
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 4721,
+                        "endColumn": 37,
+                        "endOffset": 4754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 8811,
+                    "endColumn": 46,
+                    "endOffset": 8853
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 4804,
+                        "endColumn": 46,
+                        "endOffset": 4846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 8858,
+                    "endColumn": 56,
+                    "endOffset": 8910
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 3656,
+                        "endColumn": 56,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 8915,
+                    "endColumn": 36,
+                    "endOffset": 8947
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 6418,
+                        "endColumn": 36,
+                        "endOffset": 6450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 8952,
+                    "endColumn": 42,
+                    "endOffset": 8990
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 6582,
+                        "endColumn": 42,
+                        "endOffset": 6620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 8995,
+                    "endColumn": 47,
+                    "endOffset": 9038
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 5396,
+                        "endColumn": 47,
+                        "endOffset": 5439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 9043,
+                    "endColumn": 49,
+                    "endOffset": 9088
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 5444,
+                        "endColumn": 49,
+                        "endOffset": 5489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 9093,
+                    "endColumn": 33,
+                    "endOffset": 9122
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 3764,
+                        "endColumn": 33,
+                        "endOffset": 3793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 9127,
+                    "endColumn": 52,
+                    "endOffset": 9175
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 93,
+                        "endColumn": 52,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 9180,
+                    "endColumn": 43,
+                    "endOffset": 9219
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 43,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 9224,
+                    "endColumn": 81,
+                    "endOffset": 9301
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 5896,
+                        "endColumn": 81,
+                        "endOffset": 5973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9306,
+                    "endColumn": 81,
+                    "endOffset": 9383
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 5978,
+                        "endColumn": 81,
+                        "endOffset": 6055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9388,
+                    "endColumn": 42,
+                    "endOffset": 9426
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 7279,
+                        "endColumn": 42,
+                        "endOffset": 7317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9431,
+                    "endColumn": 47,
+                    "endOffset": 9474
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 47,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9479,
+                    "endColumn": 34,
+                    "endOffset": 9509
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 9100,
+                        "endColumn": 34,
+                        "endOffset": 9130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9514,
+                    "endColumn": 56,
+                    "endOffset": 9566
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 8393,
+                        "endColumn": 56,
+                        "endOffset": 8445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 9571,
+                    "endColumn": 49,
+                    "endOffset": 9616
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 10174,
+                        "endColumn": 49,
+                        "endOffset": 10219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9621,
+                    "endColumn": 52,
+                    "endOffset": 9669
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 10224,
+                        "endColumn": 52,
+                        "endOffset": 10272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9674,
+                    "endColumn": 56,
+                    "endOffset": 9726
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 10439,
+                        "endColumn": 56,
+                        "endOffset": 10491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9731,
+                    "endColumn": 58,
+                    "endOffset": 9785
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 10380,
+                        "endColumn": 58,
+                        "endOffset": 10434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9790,
+                    "endColumn": 66,
+                    "endOffset": 9852
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 10613,
+                        "endColumn": 66,
+                        "endOffset": 10675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9857,
+                    "endColumn": 69,
+                    "endOffset": 9922
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 10680,
+                        "endColumn": 69,
+                        "endOffset": 10745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9927,
+                    "endColumn": 56,
+                    "endOffset": 9979
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 10962,
+                        "endColumn": 56,
+                        "endOffset": 11014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9984,
+                    "endColumn": 74,
+                    "endOffset": 10054
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 10887,
+                        "endColumn": 74,
+                        "endOffset": 10957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 10059,
+                    "endColumn": 59,
+                    "endOffset": 10114
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 10114,
+                        "endColumn": 59,
+                        "endOffset": 10169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 10119,
+                    "endColumn": 53,
+                    "endOffset": 10168
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 6782,
+                        "endColumn": 53,
+                        "endOffset": 6831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 10173,
+                    "endColumn": 53,
+                    "endOffset": 10222
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 6668,
+                        "endColumn": 53,
+                        "endOffset": 6717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 10227,
+                    "endColumn": 82,
+                    "endOffset": 10305
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 11019,
+                        "endColumn": 82,
+                        "endOffset": 11097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 10310,
+                    "endColumn": 53,
+                    "endOffset": 10359
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 6528,
+                        "endColumn": 53,
+                        "endOffset": 6577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 10364,
+                    "endColumn": 60,
+                    "endOffset": 10420
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 60,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 10425,
+                    "endColumn": 46,
+                    "endOffset": 10467
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 11916,
+                        "endColumn": 46,
+                        "endOffset": 11958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 10472,
+                    "endColumn": 51,
+                    "endOffset": 10519
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 11102,
+                        "endColumn": 51,
+                        "endOffset": 11149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 10524,
+                    "endColumn": 49,
+                    "endOffset": 10569
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 10277,
+                        "endColumn": 49,
+                        "endOffset": 10322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 10574,
+                    "endColumn": 52,
+                    "endOffset": 10622
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 10327,
+                        "endColumn": 52,
+                        "endOffset": 10375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 10627,
+                    "endColumn": 44,
+                    "endOffset": 10667
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 10069,
+                        "endColumn": 44,
+                        "endOffset": 10109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 10672,
+                    "endColumn": 56,
+                    "endOffset": 10724
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 10496,
+                        "endColumn": 56,
+                        "endOffset": 10548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 10729,
+                    "endColumn": 59,
+                    "endOffset": 10784
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 10553,
+                        "endColumn": 59,
+                        "endOffset": 10608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 10789,
+                    "endColumn": 66,
+                    "endOffset": 10851
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 10820,
+                        "endColumn": 66,
+                        "endOffset": 10882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 10856,
+                    "endColumn": 69,
+                    "endOffset": 10921
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 10750,
+                        "endColumn": 69,
+                        "endOffset": 10815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 10926,
+                    "endColumn": 38,
+                    "endOffset": 10960
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 38,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 10965,
+                    "endColumn": 37,
+                    "endOffset": 10998
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 37,
+                        "endOffset": 88
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 11003,
+                    "endColumn": 51,
+                    "endOffset": 11050
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 8491,
+                        "endColumn": 51,
+                        "endOffset": 8538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 11055,
+                    "endColumn": 59,
+                    "endOffset": 11110
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 6722,
+                        "endColumn": 59,
+                        "endOffset": 6777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 11115,
+                    "endColumn": 54,
+                    "endOffset": 11165
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 8338,
+                        "endColumn": 54,
+                        "endOffset": 8388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 11170,
+                    "endColumn": 47,
+                    "endOffset": 11213
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 8171,
+                        "endColumn": 47,
+                        "endOffset": 8214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 11218,
+                    "endColumn": 34,
+                    "endOffset": 11248
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 9135,
+                        "endColumn": 34,
+                        "endOffset": 9165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 11253,
+                    "endColumn": 42,
+                    "endOffset": 11291
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 7322,
+                        "endColumn": 42,
+                        "endOffset": 7360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 11296,
+                    "endColumn": 54,
+                    "endOffset": 11346
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 11208,
+                        "endColumn": 54,
+                        "endOffset": 11258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 11351,
+                    "endColumn": 53,
+                    "endOffset": 11400
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 11154,
+                        "endColumn": 53,
+                        "endOffset": 11203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 11405,
+                    "endColumn": 40,
+                    "endOffset": 11441
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 8130,
+                        "endColumn": 40,
+                        "endOffset": 8166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 11446,
+                    "endColumn": 40,
+                    "endOffset": 11482
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 8450,
+                        "endColumn": 40,
+                        "endOffset": 8486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 11487,
+                    "endColumn": 40,
+                    "endOffset": 11523
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 11263,
+                        "endColumn": 40,
+                        "endOffset": 11299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 11528,
+                    "endColumn": 46,
+                    "endOffset": 11570
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 11439,
+                        "endColumn": 46,
+                        "endOffset": 11481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 11575,
+                    "endColumn": 46,
+                    "endOffset": 11617
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 11392,
+                        "endColumn": 46,
+                        "endOffset": 11434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 11622,
+                    "endColumn": 46,
+                    "endOffset": 11664
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 11304,
+                        "endColumn": 46,
+                        "endOffset": 11346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 11669,
+                    "endColumn": 40,
+                    "endOffset": 11705
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 11351,
+                        "endColumn": 40,
+                        "endOffset": 11387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 11710,
+                    "endColumn": 55,
+                    "endOffset": 11761
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 11536,
+                        "endColumn": 55,
+                        "endOffset": 11587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 11766,
+                    "endColumn": 49,
+                    "endOffset": 11811
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 11486,
+                        "endColumn": 49,
+                        "endOffset": 11531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 11816,
+                    "endColumn": 41,
+                    "endOffset": 11853
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 4641,
+                        "endColumn": 41,
+                        "endOffset": 4678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 11858,
+                    "endColumn": 61,
+                    "endOffset": 11915
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 11854,
+                        "endColumn": 61,
+                        "endOffset": 11911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 11920,
+                    "endColumn": 42,
+                    "endOffset": 11958
+                },
+                "from": {
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values-zh-rCN/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 7627,
+                        "endColumn": 42,
+                        "endOffset": 7665
+                    }
+                }
+            }
+        ]
+    }
+]

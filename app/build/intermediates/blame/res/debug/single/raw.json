@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/raw/tag_inventoried.mp3",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/raw/tag_inventoried.mp3"
+    }
+]

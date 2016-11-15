@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mainbg.jpg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable-hdpi/mainbg.jpg"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/maintop.jpg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable-hdpi/maintop.jpg"
+    }
+]

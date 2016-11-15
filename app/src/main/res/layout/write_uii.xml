@@ -1,0 +1,303 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_blue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1.4"
+    android:id="@+id/write_main_layout"
+    tools:context="com.example.uhfxintong.MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/ll_top"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="top"
+        android:layout_weight="0.2" >
+
+        <TextView
+            android:id="@+id/factory_device"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/bg_border"
+            android:gravity="center"
+            android:text="@string/factory_name"
+            android:textSize="30px"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_center"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_left"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+           
+            android:background="@drawable/center_border"
+            android:orientation="horizontal" >
+
+          
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text=" UHF UII号: "
+                    android:textStyle="bold" 
+                    android:id="@+id/uii_tv"/>
+
+                <EditText
+                    android:id="@+id/edit_uii"
+                    android:layout_width="400dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="2dp"
+                   
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp"
+                    android:textColor="#A52A2A"
+                    android:textCursorDrawable="@null"
+                    android:editable="false" >
+                </EditText>
+          
+
+           <!--   <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text="巡视人员: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_operator"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp" >
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text="巡视时间: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_time"
+                    android:layout_width="250dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp" >
+                </EditText>
+            </LinearLayout>
+            -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_right"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            
+            android:layout_marginTop="7dp"
+            android:background="@drawable/center_border"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text=" 厂商名称: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_facory"
+                    android:layout_width="400dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp"
+                    android:textColor="#030303"
+                    android:textCursorDrawable="@null">
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text=" 设备名称: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_device"
+                    android:layout_width="400dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp" 
+                    android:textColor="#030303"
+                    android:textCursorDrawable="@null">
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text=" 电压等级: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_volt"
+                    android:layout_width="400dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp" 
+                    android:textColor="#030303"
+                    android:textCursorDrawable="@null">
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.2"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:background="@drawable/font_border"
+                    android:gravity="center"
+                    android:text=" 所属间隔: "
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/edit_line"
+                    android:layout_width="400dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="8.5dp"
+                    android:background="@drawable/font_border"
+                    android:paddingLeft="10dp"
+                    android:textColor="#030303"
+                    android:textCursorDrawable="@null" >
+                </EditText>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_marginRight="10dp"
+        android:layout_weight="0.2"
+        android:background="@drawable/center_border"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+           
+            android:background="@drawable/bg_border"
+            android:gravity="center"
+            android:text="保存" />
+        <Button
+            android:id="@+id/modify"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+           
+            android:background="@drawable/bg_border"
+            android:gravity="center"
+            android:text="修改" />
+        
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="40dp"
+            
+            android:background="@drawable/bg_border"
+            android:gravity="center"
+            android:text="清空" />
+        <Button
+            android:id="@+id/shutup"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="40dp"
+            
+            android:background="@drawable/bg_border"
+            android:gravity="center"
+            android:text="关闭" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_btn_close.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_btn_close.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_read.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_read.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_edit_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_edit_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_clear_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_clear_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/stocktaking.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/stocktaking.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_quexian_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_quexian_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/person_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/person_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_clear_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_clear_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/xunjian_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/xunjian_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_save_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_save_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_2.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_2.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_person.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_person.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_close.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_close.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/font_border.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/font_border.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_beizhu_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_beizhu_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/read_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/read_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/baocun_btn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/baocun_btn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/bg_border.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/bg_border.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_bg_v.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_bg_v.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/rfidicon.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/rfidicon.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/frame_bg_v.jpg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/frame_bg_v.jpg"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_2p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_2p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_close_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_close_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/xieru_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/xieru_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_btn_open.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_btn_open.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_date.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_date.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/read.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/read.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/clear_btn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/clear_btn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/read_pressed.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/read_pressed.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_bg_h.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_bg_h.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/rfidicon2.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/rfidicon2.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_save_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_save_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_find.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_find.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_start.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_start.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_btn_open_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_btn_open_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/clearbtn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/clearbtn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_3.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_3.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/beizhu_btn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/beizhu_btn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_circle_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_circle_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_panel_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_panel_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_bg_green.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_bg_green.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_edit.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_edit.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_btn_close_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_btn_close_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_clear_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_clear_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/complate_btn_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/complate_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_pause.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_pause.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_beizhu.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_beizhu.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_wirte.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_wirte.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_divice.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_divice.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_close_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_close_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/xiugai_btn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/xiugai_btn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/text_circle_green_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/text_circle_green_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_config.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_config.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/xunjian_.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/xunjian_.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_close_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_close_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/text_circle_red_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/text_circle_red_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_3p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_3p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_pressed.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_pressed.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_bg.jpg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_bg.jpg"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/fanhui_03.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/fanhui_03.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_btn_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/person.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/person.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_erase.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_erase.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_btn_.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_btn_.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/person_pressed.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/person_pressed.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_clear.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_clear.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/xieru_.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/xieru_.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_quexian_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_quexian_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/frame_bg.jpg",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/frame_bg.jpg"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/scan_open_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/scan_open_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/bg_blue.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/bg_blue.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_bg_red.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_bg_red.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/denglu_.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/denglu_.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_dialog_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_quexian.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_quexian.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_unlock.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_unlock.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_edit_bg.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_comp.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_comp.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_btn_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_btn_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_1p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_1p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/center_border.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/center_border.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/stocktaking_pressed.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/stocktaking_pressed.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_lock.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_lock.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/quexian_btn.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/quexian_btn.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/icon_kill.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/icon_kill.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/clear_btn_p.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/clear_btn_p.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_edit_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_edit_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/history_query_btn_1.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/history_query_btn_1.png"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_beizhu_btn.xml",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_beizhu_btn.xml"
+    },
+    {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/write_save.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/write_save.png"
+    }
+]
