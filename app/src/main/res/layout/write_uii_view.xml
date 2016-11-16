@@ -34,7 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="写入数据"
+            android:text="Write Data"
             android:textColor="#ffffff"
             android:textSize="25sp" />
     </RelativeLayout>
@@ -89,7 +89,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
-                android:text="设备基本信息"
+                android:text="BasicItemInfo"
                 android:textColor="@android:color/white"
                 android:textSize="20sp" />
         </LinearLayout>
@@ -112,7 +112,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="　　　ＥＰＣ编码："
+                    android:text="　　　ＥＰＣ Code："
                     android:textColor="#ffffff"
                     android:textSize="15sp" >
                 </TextView>
@@ -138,7 +138,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="　　　　设备名称："
+                    android:text="Device Name："
                     android:textColor="#ffffff"
                     android:textSize="15sp" >
                 </TextView>
@@ -164,7 +164,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="　　　　　　型号："
+                    android:text="Model："
                     android:textColor="#ffffff"
                     android:textSize="15sp" >
                 </TextView>
@@ -190,7 +190,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="　　　　投运时间："
+                    android:text="ComTime："
                     android:textColor="#ffffff"
                     android:textSize="15sp" >
                 </TextView>
@@ -216,7 +216,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="　　　　　　备注："
+                    android:text="Remarks："
                     android:textColor="#ffffff"
                     android:textSize="15sp" >
                 </TextView>

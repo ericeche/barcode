@@ -40,7 +40,7 @@ import com.senter.support.openapi.StUhf.UII;
 
 public class EntryActivity extends Activity {
 
-	private static final String TAG = "UII写入数据库主程序";
+	private static final String TAG = "UIIEntry Activity";
 	private ImageView save, cancel, shutup,modify;
 	private EditText uii, device, factory, volt, line, operator, time;
 	private Timer mTimer;

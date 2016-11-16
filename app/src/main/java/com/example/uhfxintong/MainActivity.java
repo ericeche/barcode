@@ -472,10 +472,11 @@ public class MainActivity extends Activity {
 				operator = "Eric Echeverri";
 				// userTv.setText(operator);
 				// userCodeTv.setText(code);
-				Intent intent = new Intent(getApplicationContext(),
-						InventoryActivity.class);
-				intent.putExtra("operator", operator);
-				startActivity(intent);
+				myStartActivity(EntryActivity.class);
+//				Intent intent = new Intent(getApplicationContext(),
+//						InventoryActivity.class);
+//				intent.putExtra("operator", operator);
+//				startActivity(intent);
 				// Toast.makeText(MainActivity.this, "扫描内容 = " + code, 0).show();
 				break;
 			case 99:
@@ -488,7 +489,8 @@ public class MainActivity extends Activity {
 				bundle = data.getExtras();
 				code = bundle.getString("result");
 				operator = "Eric Echeverri";
-				myStartActivity(HistoryActivityNew.class);
+				myStartActivity(EntryActivity.class);
+//				myStartActivity(HistoryActivityNew.class);
 				break;
 			}
 		}

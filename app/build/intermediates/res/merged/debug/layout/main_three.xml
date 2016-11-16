@@ -9,7 +9,7 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="600dp" 
+            android:layout_height="match_parent"
             android:layout_centerInParent="true"
             >
             <LinearLayout
@@ -26,10 +26,10 @@
 
                 <ImageView
                     android:id="@+id/stocktaking"
-                    android:layout_width="180dp"
-                    android:layout_height="180dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:onClick="btnClick"
-                    android:src="@drawable/lishi_btn" />
+                    android:src="@drawable/lishi_" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -56,8 +56,8 @@
 
                 <ImageView
                     android:id="@+id/read"
-                    android:layout_width="250dp"
-                    android:layout_height="250dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:onClick="btnClick"
                     android:src="@drawable/read_btn" />
 
@@ -85,8 +85,8 @@
 
                 <ImageView
                     android:id="@+id/write"
-                    android:layout_width="150dp"
-                    android:layout_height="150dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:scaleType="centerInside"
                     android:onClick="btnClick"
                     android:src="@drawable/write_btn" />

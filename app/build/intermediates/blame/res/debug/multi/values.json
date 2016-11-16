@@ -12,15 +12,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 207,
-                        "endLine": 14,
-                        "endColumn": 19,
-                        "endOffset": 407
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -33,15 +25,7 @@
                     "endOffset": 453
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 412,
-                        "endLine": 22,
-                        "endColumn": 19,
-                        "endOffset": 605
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -53,14 +37,7 @@
                     "endOffset": 512
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 58,
-                        "endOffset": 345
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -72,14 +49,7 @@
                     "endOffset": 560
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 8,
-                        "startOffset": 191,
-                        "endColumn": 51,
-                        "endOffset": 234
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -91,14 +61,7 @@
                     "endOffset": 604
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 43,
-                        "endOffset": 94
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -110,14 +73,7 @@
                     "endOffset": 649
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 99,
-                        "endColumn": 44,
-                        "endOffset": 139
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -129,14 +85,7 @@
                     "endOffset": 692
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 144,
-                        "endColumn": 42,
-                        "endOffset": 182
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -148,14 +97,7 @@
                     "endOffset": 744
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 239,
-                        "endColumn": 51,
-                        "endOffset": 286
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -167,14 +109,7 @@
                     "endOffset": 1389
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 89,
-                        "endColumn": 57,
-                        "endOffset": 142
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -186,14 +121,7 @@
                     "endOffset": 1445
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 147,
-                        "endColumn": 55,
-                        "endOffset": 198
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -205,14 +133,7 @@
                     "endOffset": 1504
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 2,
-                        "startOffset": 1265,
-                        "endColumn": 56,
-                        "endOffset": 1319
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -224,14 +145,7 @@
                     "endOffset": 1544
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 2,
-                        "startOffset": 656,
-                        "endColumn": 37,
-                        "endOffset": 691
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -243,14 +157,7 @@
                     "endOffset": 1580
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 2,
-                        "startOffset": 694,
-                        "endColumn": 33,
-                        "endOffset": 725
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -262,14 +169,7 @@
                     "endOffset": 1623
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 2,
-                        "startOffset": 728,
-                        "endColumn": 40,
-                        "endOffset": 766
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -281,14 +181,7 @@
                     "endOffset": 1669
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 2,
-                        "startOffset": 769,
-                        "endColumn": 43,
-                        "endOffset": 810
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -300,14 +193,7 @@
                     "endOffset": 1712
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 813,
-                        "endColumn": 40,
-                        "endOffset": 851
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -319,14 +205,7 @@
                     "endOffset": 1758
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 2,
-                        "startOffset": 854,
-                        "endColumn": 43,
-                        "endOffset": 895
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -338,14 +217,7 @@
                     "endOffset": 1796
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 2,
-                        "startOffset": 1189,
-                        "endColumn": 36,
-                        "endOffset": 1223
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -357,14 +229,7 @@
                     "endOffset": 1846
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 2,
-                        "startOffset": 898,
-                        "endColumn": 47,
-                        "endOffset": 943
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -376,14 +241,7 @@
                     "endOffset": 1880
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 2,
-                        "startOffset": 946,
-                        "endColumn": 31,
-                        "endOffset": 975
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -395,14 +253,7 @@
                     "endOffset": 1925
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 2,
-                        "startOffset": 978,
-                        "endColumn": 42,
-                        "endOffset": 1018
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -414,14 +265,7 @@
                     "endOffset": 1973
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 2,
-                        "startOffset": 1021,
-                        "endColumn": 45,
-                        "endOffset": 1064
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -433,14 +277,7 @@
                     "endOffset": 2030
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 2,
-                        "startOffset": 1067,
-                        "endColumn": 54,
-                        "endOffset": 1119
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -452,14 +289,7 @@
                     "endOffset": 2090
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 2,
-                        "startOffset": 1122,
-                        "endColumn": 57,
-                        "endOffset": 1177
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -471,14 +301,7 @@
                     "endOffset": 2136
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 2,
-                        "startOffset": 1322,
-                        "endColumn": 43,
-                        "endOffset": 1363
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -490,14 +313,7 @@
                     "endOffset": 2173
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 2,
-                        "startOffset": 1226,
-                        "endColumn": 35,
-                        "endOffset": 1259
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/ids.xml"
                 }
             },
             {
@@ -509,14 +325,7 @@
                     "endOffset": 2226
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 153,
-                        "endColumn": 52,
-                        "endOffset": 201
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -528,14 +337,7 @@
                     "endOffset": 2270
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 836,
-                        "endColumn": 43,
-                        "endOffset": 875
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -543,8 +345,8 @@
                     "startLine": 49,
                     "startColumn": 4,
                     "startOffset": 2275,
-                    "endColumn": 43,
-                    "endOffset": 2314
+                    "endColumn": 51,
+                    "endOffset": 2322
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
@@ -552,8 +354,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 43,
-                        "endOffset": 95
+                        "endColumn": 51,
+                        "endOffset": 103
                     }
                 }
             },
@@ -561,56 +363,42 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2319,
+                    "startOffset": 2327,
                     "endColumn": 52,
-                    "endOffset": 2367
+                    "endOffset": 2375
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 100,
-                        "endColumn": 52,
-                        "endOffset": 148
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 2372,
+                    "startOffset": 2380,
                     "endColumn": 50,
-                    "endOffset": 2418
+                    "endOffset": 2426
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 880,
-                        "endColumn": 50,
-                        "endOffset": 926
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 2423,
-                    "endColumn": 47,
-                    "endOffset": 2466
+                    "startOffset": 2431,
+                    "endColumn": 50,
+                    "endOffset": 2477
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 678,
-                        "endColumn": 47,
-                        "endOffset": 721
+                        "startOffset": 685,
+                        "endColumn": 50,
+                        "endOffset": 731
                     }
                 }
             },
@@ -618,18 +406,18 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 2471,
-                    "endColumn": 60,
-                    "endOffset": 2527
+                    "startOffset": 2482,
+                    "endColumn": 61,
+                    "endOffset": 2539
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 775,
-                        "endColumn": 60,
-                        "endOffset": 831
+                        "startOffset": 792,
+                        "endColumn": 61,
+                        "endOffset": 849
                     }
                 }
             },
@@ -637,18 +425,18 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 2532,
-                    "endColumn": 43,
-                    "endOffset": 2571
+                    "startOffset": 2544,
+                    "endColumn": 42,
+                    "endOffset": 2582
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 634,
-                        "endColumn": 43,
-                        "endOffset": 673
+                        "startOffset": 642,
+                        "endColumn": 42,
+                        "endOffset": 680
                     }
                 }
             },
@@ -656,18 +444,18 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 2576,
-                    "endColumn": 48,
-                    "endOffset": 2620
+                    "startOffset": 2587,
+                    "endColumn": 55,
+                    "endOffset": 2638
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 726,
-                        "endColumn": 48,
-                        "endOffset": 770
+                        "startOffset": 736,
+                        "endColumn": 55,
+                        "endOffset": 787
                     }
                 }
             },
@@ -675,18 +463,18 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2625,
-                    "endColumn": 55,
-                    "endOffset": 2676
+                    "startOffset": 2643,
+                    "endColumn": 59,
+                    "endOffset": 2698
                 },
                 "from": {
                     "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 931,
-                        "endColumn": 55,
-                        "endOffset": 982
+                        "startOffset": 949,
+                        "endColumn": 59,
+                        "endOffset": 1004
                     }
                 }
             },
@@ -694,42 +482,26 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 2681,
+                    "startOffset": 2703,
                     "endLine": 66,
                     "endColumn": 12,
-                    "endOffset": 3256
+                    "endOffset": 3278
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 875
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 3261,
+                    "startOffset": 3283,
                     "endLine": 72,
                     "endColumn": 12,
-                    "endOffset": 3552
+                    "endOffset": 3574
                 },
                 "from": {
-                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 883,
-                        "endLine": 28,
-                        "endColumn": 12,
-                        "endOffset": 1179
-                    }
+                    "file": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/values/styles.xml"
                 }
             }
         ]

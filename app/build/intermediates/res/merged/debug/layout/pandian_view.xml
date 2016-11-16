@@ -24,7 +24,7 @@
                 android:id="@+id/pandian_panel_renyuan1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="巡视人员："
+                android:text="Inspectors："
                 android:textColor="#ffffff" />
 
             <TextView
@@ -34,7 +34,7 @@
                 android:layout_alignBaseline="@+id/pandian_panel_renyuan1"
                 android:layout_centerHorizontal="true"
                 android:layout_toRightOf="@+id/pandian_panel_renyuan1"
-                android:text="李越"
+                android:text="Eric Echeverri"
                 android:textColor="#ffffff" />
         </RelativeLayout>
 
@@ -71,7 +71,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/pandian_panel_zhengchang2"
                 android:layout_toRightOf="@+id/pandian_panel_zhengchang2"
-                android:text="条"
+                android:text="Article"
                 android:textColor="#ffffff" />
         </RelativeLayout>
 
@@ -87,7 +87,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingTop="10dp"
-                android:text="缺陷："
+                android:text="defect："
                 android:textColor="#ffffff" />
 
             <TextView
@@ -105,7 +105,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@+id/pandian_panel_quexian1"
                 android:layout_toRightOf="@+id/pandian_panel_quexian2"
-                android:text="条"
+                android:text="Article"
                 android:textColor="#ffffff" />
         </RelativeLayout>
 
@@ -120,7 +120,7 @@
                 android:id="@+id/pandian_panel_riqi1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="日期："
+                android:text="Date："
                 android:textColor="#ffffff" />
 
             <TextView
@@ -172,7 +172,8 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:src="@drawable/pandian_comp" />
-        
+
+        
     </RelativeLayout>
 
 </LinearLayout>

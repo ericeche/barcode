@@ -316,6 +316,10 @@
         "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/denglu_.png"
     },
     {
+        "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/lishi_1.png",
+        "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/lishi_1.png"
+    },
+    {
         "merged": "/Users/ericecheverri/EquipmentMnanager1/app/build/intermediates/res/merged/debug/drawable/pandian_dialog_bg.xml",
         "source": "/Users/ericecheverri/EquipmentMnanager1/app/src/main/res/drawable/pandian_dialog_bg.xml"
     },
